@@ -16,7 +16,7 @@ Installation
 Add `spree_ams` to your Spree store's Gemfile:
 
 ```ruby
-gem 'spree_ams', github: 'vinsol/spree_ams', branch: '3-1-stable'
+gem 'spree_ams', github: 'vinsol/spree_ams', branch: '3-6-stable'
 ```
 
 If you'd like to explicitly set the host URL for the Image Serializer to output absolute URLs  you'll need to set a config.action_controller.asset_host in your Rails environment configuration.
